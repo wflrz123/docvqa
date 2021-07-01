@@ -22,6 +22,7 @@ logger = logging.getLogger(__name__)
 
 print("测试")
 print("测试2")
+print("测试3")
 def convert_tokens_to_string(tokens):
     """ Converts a sequence of tokens (string) in a single string. """
     # "##niko", "##let", "##ta", "went", "home"  = ##nikoletta went home
